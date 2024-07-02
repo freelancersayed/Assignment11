@@ -1,8 +1,35 @@
-# React + Vite
+# RealerBlog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+RealerBlog is a sports website where users can find updates on all kinds of sports. Users can also add information, comment on posts, and save posts to their wishlist for later viewing.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+RealerBlog is designed for sports enthusiasts to get the latest updates, scores, and news on various sports. Users can contribute information, add comments, and save their favorite posts to a wishlist for future reference.
+
+## Features
+
+- **Live Updates:** View the latest updates on all kinds of sports.
+- **User Contributions:** Users can add new information.
+- **Comments:** Users can comment on posts.
+- **Wishlist:** Save favorite posts to a wishlist for later reading.
+
+## Technologies Used
+
+- **Frontend:** React.js, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Authentication:** Firebase
+- **Deployment:** Netlify
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/realerblog.git
