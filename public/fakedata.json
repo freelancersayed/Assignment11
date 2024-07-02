@@ -1,0 +1,83 @@
+[
+    {
+      "title": "Victory at Midnight Marathon",
+      "photo": "https://example.com/photos/marathon.jpg",
+      "category": "Running",
+      "shortDes": "The annual city marathon ends with a spectacular finish.",
+      "longDes": "The Midnight Marathon concluded this weekend with a record-breaking finish by John Doe, who completed the course in just over two hours. Spectators were thrilled as they witnessed a breathtaking sprint to the finish line under the city lights.",
+      "time": "2024-05-10T22:00:00Z"
+    },
+    {
+      "title": "Champions League Final Highlights",
+      "photo": "https://example.com/photos/champions-league.jpg",
+      "category": "Football",
+      "shortDes": "An unforgettable night of football.",
+      "longDes": "Last night's Champions League final left everyone on the edge of their seats as Manchester City clinched the title with a last-minute goal against Barcelona. The match, filled with intense moments and strategic plays, will be remembered for years to come.",
+      "time": "2024-05-09T21:30:00Z"
+    },
+    {
+      "title": "Grand Slam Glory",
+      "photo": "https://example.com/photos/tennis.jpg",
+      "category": "Tennis",
+      "shortDes": "Historic win at the US Open.",
+      "longDes": "Emma Raducanu makes history again by winning the US Open without dropping a set throughout the tournament. Her impeccable performance has captured the hearts of tennis fans around the world.",
+      "time": "2024-05-08T18:00:00Z"
+    },
+    {
+      "title": "NBA Season Opener",
+      "photo": "https://example.com/photos/nba.jpg",
+      "category": "Basketball",
+      "shortDes": "A thrilling start to the NBA season.",
+      "longDes": "The NBA season kicked off with a thrilling game between the Los Angeles Lakers and the Golden State Warriors. The game went into overtime with the Warriors pulling off a narrow victory.",
+      "time": "2024-05-07T03:00:00Z"
+    },
+    {
+      "title": "Olympic Trials Conclude",
+      "photo": "https://example.com/photos/olympics.jpg",
+      "category": "Olympics",
+      "shortDes": "Final spots secured for the upcoming Olympics.",
+      "longDes": "The Olympic trials have ended, and the final team roster has been announced. After days of intense competition, the athletes are ready to represent their country on the world's biggest stage.",
+      "time": "2024-05-06T14:00:00Z"
+    },
+    {
+      "title": "Cricket World Cup Update",
+      "photo": "https://example.com/photos/cricket.jpg",
+      "category": "Cricket",
+      "shortDes": "Dramatic scenes unfold at the Cricket World Cup.",
+      "longDes": "Today's match saw an unexpected turn of events as the underdogs toppled the top-seeded team, shaking up the standings and setting the stage for an exciting series of upcoming matches in the Cricket World Cup.",
+      "time": "2024-05-05T17:00:00Z"
+    },
+    {
+      "title": "Sailing Championships",
+      "photo": "https://example.com/photos/sailing.jpg",
+      "category": "Sailing",
+      "shortDes": "Smooth sailing at the annual regatta.",
+      "longDes": "This year's sailing championship showcased some of the best talent in the sport. With perfect weather conditions, the competitors performed at their peak, making it a memorable event for all involved.",
+      "time": "2024-05-04T09:00:00Z"
+    },
+    {
+      "title": "High School Football Phenom",
+      "photo": "https://example.com/photos/high-school-football.jpg",
+      "category": "High School Sports",
+      "shortDes": "Local high school football team makes headlines.",
+      "longDes": "The local high school football team surprised their community by securing a state championship win this year. The team's hard work and dedication were evident in their play, earning them widespread acclaim.",
+      "time": "2024-05-03T20:00:00Z"
+    },
+    {
+      "title": "Extreme Sports Expo",
+      "photo": "https://example.com/photos/extreme-sports.jpg",
+      "category": "Extreme Sports",
+      "shortDes": "Adrenaline-fueled expo attracts thrill-seekers.",
+      "longDes": "The annual Extreme Sports Expo returned this weekend, drawing crowds from across the globe. Participants experienced the thrill of bungee jumping, skydiving, and more, while vendors showcased the latest in extreme sports gear.",
+      "time": "2024-05-02T12:00:00Z"
+    },
+    {
+      "title": "Golf Masters Tournament",
+      "photo": "https://example.com/photos/golf.jpg",
+      "category": "Golf",
+      "shortDes": "Golf Masters Tournament concludes with a surprising twist.",
+      "longDes": "The Golf Masters Tournament ended in a dramatic fashion as the underdog, previously ranked outside the top 50, clinched the title in a stunning upset. This victory has shaken up the golf world and set a new narrative for the season.",
+      "time": "2024-05-01T16:00:00Z"
+    }
+  ]
+  
