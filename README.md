@@ -1,10 +1,10 @@
-# RealerBlog
+# RegulerBlog
 
-RealerBlog is a sports website where users can find updates on all kinds of sports. Users can also add information, comment on posts, and save posts to their wishlist for later viewing.
+RegulerBlog is a sports website where users can find updates on all kinds of sports. Users can also add information, comment on posts, and save posts to their wishlist for later viewing.
 
 ## Project Overview
 
-RealerBlog is designed for sports enthusiasts to get the latest updates, scores, and news on various sports. Users can contribute information, add comments, and save their favorite posts to a wishlist for future reference.
+RegulerBlog is designed for sports enthusiasts to get the latest updates, scores, and news on various sports. Users can contribute information, add comments, and save their favorite posts to a wishlist for future reference.
 
 ## Features
 
@@ -32,4 +32,4 @@ RealerBlog is designed for sports enthusiasts to get the latest updates, scores,
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/realerblog.git
+   git clone https://github.com/freelancersayed/Assignment11.git
